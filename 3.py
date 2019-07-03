@@ -5,5 +5,5 @@ for i in b:
         print("Vowel")
         break
     else:
-        print("Invalid")
+        print("Consonant")
         break
